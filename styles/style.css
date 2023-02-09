@@ -1,4 +1,16 @@
 body {
-    background-color:rgba(0, 0, 0, 0.931);
+    background-color: blanchedalmond;
+}
+
+.main-title, .recipe-list {
+    background-color:cornflowerblue;
     color:white;
+}
+
+.main-title {
+    width:33.5%
+}
+
+.recipe-list {
+    width:30%;
 }

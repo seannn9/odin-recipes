@@ -1,16 +1,18 @@
 body {
-    background-color: blanchedalmond;
+    background-color: black;
 }
 
-.main-title, .recipe-list {
-    background-color:cornflowerblue;
+.navigate,.main-title, .recipe-list, .links, h3{
+    font-family: "Press Start 2P", "Oswald", sans-serif;
     color:white;
 }
 
-.main-title {
-    width:33.5%
+.links {
+    font-size: 10px;
 }
 
-.recipe-list {
-    width:30%;
+.content {
+    color:chartreuse;
+    font-size:20px;
+    font-family: "Ubuntu","Oswald", sans-serif;
 }
